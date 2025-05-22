@@ -1,2 +1,50 @@
+# Node.js関連
 node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE・エディタ関連
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS関連
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ログファイル
+logs/
 *.log
+
+# 環境変数
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 一時ファイル
+*.tmp
+*.temp
+
+# カバレッジレポート
+coverage/
+
+# ビルド関連
+dist/
+build/
+
+# macOS関連
+.AppleDouble
+.LSOverride
+
+# サムネイル
+._*
